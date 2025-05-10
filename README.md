@@ -8,7 +8,7 @@ Ein einfaches Budget-Tracker-Projekt in Python, das SQLite zur Speicherung von A
 - Gesamtausgaben berechnen
 - Ausgaben anzeigen
 
-##Lizenz
+## Lizenz
 Dieses Projekt ist unter der MIT-Lizenz lizenziert.
 
 ## Installation
